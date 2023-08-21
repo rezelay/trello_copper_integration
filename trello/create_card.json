@@ -1,0 +1,217 @@
+{
+    "model": {
+        "id": "64e181c3466d549fd2b7194d",
+        "name": "Kanban",
+        "desc": "Use este modelo simples do Kanban para manter a equipe de engenharia na mesma página e seguir o trabalho com fluidez.\n\n1. Divida o roteiro adicionando tarefas como cartões à lista ** Backlog **.\n\n2. Mova os cartões um por um através de ** Design ** à medida que se tornam mais detalhados. * Dica profissional: * Você pode ativar os Power-Ups para suas ferramentas de design favoritas, como [Figma] (https://trello.com/power-ups/59b2e7611e6ece0b35eac16a/figma) ou [Invision] (https://trello.com/ power-ups / 596f2cb2d279152540b2bb31), para vincular e visualizar projetos com facilidade, sem alternar o contexto.\n\n3. Quando um cartão estiver totalmente especificado e os designs estiverem anexados, mova-o para ** Tarefa ** para que os engenheiros atendam.\n\n4. Os engenheiros movem os cartões para ** Fazendo ** e se atribuem ao cartões, para que toda a equipe fique informada de quem está trabalhando no quê.\n\n5. Os cartões passam pela ** Revisão de Código ** quando estão prontos para um segundo par de olhos. A equipe pode definir um ** Limite de lista ** (com a ativação do limite de lista) no número de cartões na Revisão de código, como um indicador visual de quando a equipe precisa priorizar as revisões em vez de escolher um novo trabalho.\n\n6. Depois que os cartões passarem pelo ** Teste ** e, eventualmente, forem enviados para a produção, mova-os para ** Concluídos ** e comemore!",
+        "descData": None,
+        "closed": False,
+        "idOrganization": "64e181a52807874fa7540708",
+        "idEnterprise": None,
+        "pinned": False,
+        "url": "https://trello.com/b/t3U6SlIo/kanban",
+        "shortUrl": "https://trello.com/b/t3U6SlIo",
+        "prefs": {
+            "permissionLevel": "org",
+            "hideVotes": False,
+            "voting": "disabled",
+            "comments": "members",
+            "invitations": "members",
+            "selfJoin": True,
+            "cardCovers": True,
+            "isTemplate": False,
+            "cardAging": "regular",
+            "calendarFeedEnabled": False,
+            "hiddenPluginBoardButtons": [],
+            "switcherViews": [
+                {
+                    "viewType": "Board",
+                    "enabled": True
+                },
+                {
+                    "viewType": "Table",
+                    "enabled": True
+                },
+                {
+                    "viewType": "Calendar",
+                    "enabled": False
+                },
+                {
+                    "viewType": "Dashboard",
+                    "enabled": False
+                },
+                {
+                    "viewType": "Timeline",
+                    "enabled": False
+                },
+                {
+                    "viewType": "Map",
+                    "enabled": False
+                }
+            ],
+            "background": "5dfa855f31b76a80318febaf",
+            "backgroundColor": None,
+            "backgroundImage": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/original/d71b9370b4cba91634ae4ffe331fb59a/photo-1576502200916-3808e07386a5",
+            "backgroundImageScaled": [
+                {
+                    "width": 140,
+                    "height": 94,
+                    "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/140x94/47f09f0e3910259568294477d0bdedac/photo-1576502200916-3808e07386a5.jpg"
+                },
+                {
+                    "width": 256,
+                    "height": 172,
+                    "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/256x172/47f09f0e3910259568294477d0bdedac/photo-1576502200916-3808e07386a5.jpg"
+                },
+                {
+                    "width": 480,
+                    "height": 322,
+                    "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/480x322/47f09f0e3910259568294477d0bdedac/photo-1576502200916-3808e07386a5.jpg"
+                },
+                {
+                    "width": 960,
+                    "height": 644,
+                    "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/960x644/47f09f0e3910259568294477d0bdedac/photo-1576502200916-3808e07386a5.jpg"
+                },
+                {
+                    "width": 1024,
+                    "height": 687,
+                    "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/1024x687/47f09f0e3910259568294477d0bdedac/photo-1576502200916-3808e07386a5.jpg"
+                },
+                {
+                    "width": 1280,
+                    "height": 859,
+                    "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/1280x859/47f09f0e3910259568294477d0bdedac/photo-1576502200916-3808e07386a5.jpg"
+                },
+                {
+                    "width": 1920,
+                    "height": 1288,
+                    "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/1920x1288/47f09f0e3910259568294477d0bdedac/photo-1576502200916-3808e07386a5.jpg"
+                },
+                {
+                    "width": 2048,
+                    "height": 1374,
+                    "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/2048x1374/47f09f0e3910259568294477d0bdedac/photo-1576502200916-3808e07386a5.jpg"
+                },
+                {
+                    "width": 2386,
+                    "height": 1600,
+                    "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/2386x1600/47f09f0e3910259568294477d0bdedac/photo-1576502200916-3808e07386a5.jpg"
+                },
+                {
+                    "width": 2560,
+                    "height": 1717,
+                    "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/original/d71b9370b4cba91634ae4ffe331fb59a/photo-1576502200916-3808e07386a5"
+                }
+            ],
+            "backgroundTile": False,
+            "backgroundBrightness": "light",
+            "backgroundBottomColor": "#068faa",
+            "backgroundTopColor": "#ddaba7",
+            "canBePublic": True,
+            "canBeEnterprise": True,
+            "canBeOrg": True,
+            "canBePrivate": True,
+            "canInvite": True
+        },
+        "labelNames": {
+            "green": "",
+            "yellow": "",
+            "orange": "",
+            "red": "",
+            "purple": "",
+            "blue": "",
+            "sky": "",
+            "lime": "",
+            "pink": "",
+            "black": "",
+            "green_dark": "",
+            "yellow_dark": "",
+            "orange_dark": "",
+            "red_dark": "",
+            "purple_dark": "",
+            "blue_dark": "",
+            "sky_dark": "",
+            "lime_dark": "",
+            "pink_dark": "",
+            "black_dark": "",
+            "green_light": "",
+            "yellow_light": "",
+            "orange_light": "",
+            "red_light": "",
+            "purple_light": "",
+            "blue_light": "",
+            "sky_light": "",
+            "lime_light": "",
+            "pink_light": "",
+            "black_light": ""
+        }
+    },
+    "action": {
+        "id": "64e24e39153f69427949b805",
+        "idMemberCreator": "64555e6ec608702e47281d0f",
+        "data": {
+            "card": {
+                "id": "64e24e39153f69427949b7fc",
+                "name": "Card 4",
+                "idShort": 5,
+                "shortLink": "iIvAhqkM"
+            },
+            "list": {
+                "id": "64e181c3466d549fd2b7194e",
+                "name": "Backlog"
+            },
+            "board": {
+                "id": "64e181c3466d549fd2b7194d",
+                "name": "Kanban",
+                "shortLink": "t3U6SlIo"
+            }
+        },
+        "appCreator": None,
+        "type": "createCard",
+        "date": "2023-08-20T17:32:41.338Z",
+        "limits": None,
+        "display": {
+            "translationKey": "action_create_card",
+            "entities": {
+                "card": {
+                    "type": "card",
+                    "id": "64e24e39153f69427949b7fc",
+                    "shortLink": "iIvAhqkM",
+                    "text": "Card 4"
+                },
+                "list": {
+                    "type": "list",
+                    "id": "64e181c3466d549fd2b7194e",
+                    "text": "Backlog"
+                },
+                "memberCreator": {
+                    "type": "member",
+                    "id": "64555e6ec608702e47281d0f",
+                    "username": "layararezende2",
+                    "text": "Layara Rezende"
+                }
+            }
+        },
+        "memberCreator": {
+            "id": "64555e6ec608702e47281d0f",
+            "activityBlocked": False,
+            "avatarHash": "ce626e51f3c3f14e13e03e6b570b63c1",
+            "avatarUrl": "https://trello-members.s3.amazonaws.com/64555e6ec608702e47281d0f/ce626e51f3c3f14e13e03e6b570b63c1",
+            "fullName": "layara.rezende",
+            "idMemberReferrer": "630367a6e4b9d868f337524d",
+            "initials": "L",
+            "nonPublic": {},
+            "nonPublicAvailable": True,
+            "username": "layararezende2"
+        }
+    },
+    "webhook": {
+        "id": "64e24c6fc25934f2dfc7ae96",
+        "description": "",
+        "idModel": "64e181c3466d549fd2b7194d",
+        "callbackURL": "https://2ed9-45-184-70-112.ngrok-free.app/card_created",
+        "active": True,
+        "consecutiveFailures": 0,
+        "firstConsecutiveFailDate": None
+    }
+}

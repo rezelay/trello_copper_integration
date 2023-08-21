@@ -1,0 +1,66 @@
+[
+  {
+    "id": 595982,
+    "name": "Cadastro no Portal de Suprimentos",
+    "data_type": "Dropdown",
+    "available_on": [
+      "company"
+    ],
+    "is_filterable": true,
+    "options": [
+      {
+        "id": 1824980,
+        "name": "Sim possuímos cadastrado",
+        "rank": 0
+      },
+      {
+        "id": 1824981,
+        "name": "Não possuímos cadastro",
+        "rank": 1
+      },
+      {
+        "id": 1824982,
+        "name": "N/A",
+        "rank": 2
+      }
+    ]
+  },
+  {
+    "id": 607273,
+    "name": "Dono",
+    "data_type": "Dropdown",
+    "available_on": [
+      "opportunity",
+      "person",
+      "lead",
+      "company",
+      "task"
+    ],
+    "is_filterable": true,
+    "options": [
+      {
+        "id": 1862946,
+        "name": "Vivian Santiago",
+        "rank": 4
+      },
+      {
+        "id": 1849239,
+        "name": "Danilo Faria",
+        "rank": 0
+      },
+      {
+        "id": 1849240,
+        "name": "Layara Rezende",
+        "rank": 1
+      },
+      {
+        "id": 1849241,
+        "name": "Manhana Milena",
+        "rank": 2
+      },
+      {
+        "id": 1849242,
+        "name": "Vinicius Escudero",
+        "rank": 3
+      }
+    ]}]
