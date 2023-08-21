@@ -3,53 +3,53 @@
         "id": "64e181c3466d549fd2b7194d",
         "name": "Kanban",
         "desc": "Use este modelo simples do Kanban para manter a equipe de engenharia na mesma página e seguir o trabalho com fluidez.\n\n1. Divida o roteiro adicionando tarefas como cartões à lista ** Backlog **.\n\n2. Mova os cartões um por um através de ** Design ** à medida que se tornam mais detalhados. * Dica profissional: * Você pode ativar os Power-Ups para suas ferramentas de design favoritas, como [Figma] (https://trello.com/power-ups/59b2e7611e6ece0b35eac16a/figma) ou [Invision] (https://trello.com/ power-ups / 596f2cb2d279152540b2bb31), para vincular e visualizar projetos com facilidade, sem alternar o contexto.\n\n3. Quando um cartão estiver totalmente especificado e os designs estiverem anexados, mova-o para ** Tarefa ** para que os engenheiros atendam.\n\n4. Os engenheiros movem os cartões para ** Fazendo ** e se atribuem ao cartões, para que toda a equipe fique informada de quem está trabalhando no quê.\n\n5. Os cartões passam pela ** Revisão de Código ** quando estão prontos para um segundo par de olhos. A equipe pode definir um ** Limite de lista ** (com a ativação do limite de lista) no número de cartões na Revisão de código, como um indicador visual de quando a equipe precisa priorizar as revisões em vez de escolher um novo trabalho.\n\n6. Depois que os cartões passarem pelo ** Teste ** e, eventualmente, forem enviados para a produção, mova-os para ** Concluídos ** e comemore!",
-        "descData": None,
-        "closed": False,
+        "descData": null,
+        "closed": false,
         "idOrganization": "64e181a52807874fa7540708",
-        "idEnterprise": None,
-        "pinned": False,
+        "idEnterprise": null,
+        "pinned": false,
         "url": "https://trello.com/b/t3U6SlIo/kanban",
         "shortUrl": "https://trello.com/b/t3U6SlIo",
         "prefs": {
             "permissionLevel": "org",
-            "hideVotes": False,
+            "hideVotes": false,
             "voting": "disabled",
             "comments": "members",
             "invitations": "members",
-            "selfJoin": True,
-            "cardCovers": True,
-            "isTemplate": False,
+            "selfJoin": true,
+            "cardCovers": true,
+            "isTemplate": false,
             "cardAging": "regular",
-            "calendarFeedEnabled": False,
+            "calendarFeedEnabled": false,
             "hiddenPluginBoardButtons": [],
             "switcherViews": [
                 {
                     "viewType": "Board",
-                    "enabled": True
+                    "enabled": true
                 },
                 {
                     "viewType": "Table",
-                    "enabled": True
+                    "enabled": true
                 },
                 {
                     "viewType": "Calendar",
-                    "enabled": False
+                    "enabled": false
                 },
                 {
                     "viewType": "Dashboard",
-                    "enabled": False
+                    "enabled": false
                 },
                 {
                     "viewType": "Timeline",
-                    "enabled": False
+                    "enabled": false
                 },
                 {
                     "viewType": "Map",
-                    "enabled": False
+                    "enabled": false
                 }
             ],
             "background": "5dfa855f31b76a80318febaf",
-            "backgroundColor": None,
+            "backgroundColor": null,
             "backgroundImage": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/original/d71b9370b4cba91634ae4ffe331fb59a/photo-1576502200916-3808e07386a5",
             "backgroundImageScaled": [
                 {
@@ -103,15 +103,15 @@
                     "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/original/d71b9370b4cba91634ae4ffe331fb59a/photo-1576502200916-3808e07386a5"
                 }
             ],
-            "backgroundTile": False,
+            "backgroundTile": false,
             "backgroundBrightness": "light",
             "backgroundBottomColor": "#068faa",
             "backgroundTopColor": "#ddaba7",
-            "canBePublic": True,
-            "canBeEnterprise": True,
-            "canBeOrg": True,
-            "canBePrivate": True,
-            "canInvite": True
+            "canBePublic": true,
+            "canBeEnterprise": true,
+            "canBeOrg": true,
+            "canBePrivate": true,
+            "canInvite": true
         },
         "labelNames": {
             "green": "",
@@ -166,10 +166,10 @@
                 "shortLink": "t3U6SlIo"
             }
         },
-        "appCreator": None,
+        "appCreator": null,
         "type": "createCard",
         "date": "2023-08-20T17:32:41.338Z",
-        "limits": None,
+        "limits": null,
         "display": {
             "translationKey": "action_create_card",
             "entities": {
@@ -194,14 +194,14 @@
         },
         "memberCreator": {
             "id": "64555e6ec608702e47281d0f",
-            "activityBlocked": False,
+            "activityBlocked": false,
             "avatarHash": "ce626e51f3c3f14e13e03e6b570b63c1",
             "avatarUrl": "https://trello-members.s3.amazonaws.com/64555e6ec608702e47281d0f/ce626e51f3c3f14e13e03e6b570b63c1",
             "fullName": "layara.rezende",
             "idMemberReferrer": "630367a6e4b9d868f337524d",
             "initials": "L",
             "nonPublic": {},
-            "nonPublicAvailable": True,
+            "nonPublicAvailable": true,
             "username": "layararezende2"
         }
     },
@@ -210,8 +210,8 @@
         "description": "",
         "idModel": "64e181c3466d549fd2b7194d",
         "callbackURL": "https://2ed9-45-184-70-112.ngrok-free.app/card_created",
-        "active": True,
+        "active": true,
         "consecutiveFailures": 0,
-        "firstConsecutiveFailDate": None
+        "firstConsecutiveFailDate": null
     }
 }
